@@ -1,0 +1,130 @@
+.main{
+    height: 40px;
+    width: 100%;
+    top: 0%;
+   
+    background-color: rgb(58, 129, 129);
+}
+
+.navbar h1{
+    color: white;
+    text-align: left;
+    margin-top: 0%;
+}
+    
+
+.navbar ul{
+    display: flex;
+    text-decoration: none;
+   
+   justify-content: flex-end;
+   justify-content: space-around;
+   height: 30%;
+   margin-left: 50%;
+   margin-right: 10%;
+   margin-top: 0%;
+   
+}
+a{
+    text-decoration: none;
+    color:white;
+   height: 30%;
+   margin-left: 60%;
+}
+a:hover{
+    text-size-adjust: 40%;
+    color: brown;
+}
+button{
+    border-radius: 10px;
+    display: flex;
+}
+button a{
+   
+    display: flex;
+    background-color:white ;
+    color: black;
+    margin-left: 0%;
+}
+.heading-primary{
+    font-size: 2rem;
+    text-align: center;
+}
+.plan-section{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.plan-basic{
+    box-sizing: border-box;
+
+    border: 1px;
+}
+.plan-section .plan{
+width: 300px;
+height: 520px;
+text-align: center;
+padding: 30px 20px;
+margin-right: 10px;
+margin-bottom: 20px;
+border-radius: 5px;
+box-shadow: 0 0.6rem 1.6rem #b3b5c6;
+
+}
+.plan .plan-heading{
+    margin-bottom: 1%;
+}
+
+
+
+.plan-section .plan .plan-price{
+    font-size: 3rem;
+}
+.plan-section .plan .dollar{
+    font-size: 1rem;
+    vertical-align: middle;
+}
+.plan-section .plan-feature .plan-item{
+    padding: 10px 0;
+    border-bottom: 1px solid gainsboro;
+}
+
+.plan-section .plan .btn{
+    background-color: rgb(20, 5, 5);
+        align-items: center;
+    color: rgb(247, 242, 242);
+    padding: 5px;
+    
+    
+    border-radius: 5px;
+}
+.plan-section .plan .btn:hover{
+    background-color: rgb(30, 142, 142);
+}
+
+.plan-section .basic{
+    background-color: azure;
+    color: black;
+    border: 1px solid black;
+}
+.plan-section .pro{
+    background-color: rgb(99, 92, 228);
+}
+.plan-section .master{
+    background-color: azure;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

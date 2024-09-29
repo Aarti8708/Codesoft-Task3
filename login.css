@@ -1,0 +1,103 @@
+
+/* .main{
+    height: 40px;
+    width: 100%;
+    top: 0%;
+   
+    background-color: rgb(58, 129, 129);
+}
+
+.navbar h1{
+    color: white;
+    text-align: left;
+    margin-top: 0%;
+}
+    
+
+.navbar ul{
+    display: flex;
+    text-decoration: none;
+  
+   justify-content: flex-end;
+   justify-content: space-around;
+   height: 30%;
+   margin-left: 50%;
+   margin-right: 10%;
+   margin-top: 0%;
+   
+}
+.navbar ul a{
+    text-decoration: none;
+    color:white;
+   height: 30%;
+   margin-left: 60%;
+}
+.navbar ul a:hover{
+    text-size-adjust: 40%;
+    color: brown;
+} */
+ body{
+    background-color: whitesmoke;
+ }
+.wrapper{
+    
+    box-sizing: border-box;
+    font-family: poppins, sans-serif;
+    width: 330px;
+    padding: 2rem 1rem;
+    margin: 50px auto;
+    background-color: aliceblue;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: o 2opx 35px rgba(0,0,0,0.1);
+    margin-top: 5%;
+}
+h1{
+    font-size: 2rem;
+    color: black;
+    margin-bottom: 1.2rem;
+
+}
+form input{
+    width: 92%;
+    outline: none;
+    border: 1px solid gray;
+    padding: 12px 20px;
+    margin-bottom: 10px;
+    border-radius: 20px;
+    background-color: #e4e4e4;
+}
+.log button{
+    font-size: 1rem;
+    margin-top: 1.8rem;
+    padding: 10px 0;
+    border-radius: 20px;
+    outline: none;
+    border: none;
+    width: 90%;
+    background-color: rgb(17,107,143);
+}
+.log button:hover{
+    background-color: rgba(17,107,143,0.877);
+}
+
+.member{
+    font-size: 0.8rem;
+    margin-top: 1.4rem;
+
+}
+.member a{
+    color:rgb(45, 45, 111);
+    text-decoration: none;
+}
+
+
+.recover{
+    text-align: right;
+    font-size: 0.7rem;
+    margin: 0.3rem 1.4rem 0 0;
+}
+.recover a{
+    text-decoration: none;
+    color: rgb(58, 57, 57);
+}
